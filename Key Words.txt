@@ -1,0 +1,9 @@
+Case Study: Analyzing Job Market Data in Power BI
+
+
+1. Change Column profiling on large data set (option at bottom left).
+2. In Power Query View column is very important (shows details of dataset, null value, unique value  etc).
+
+
+1. who , What and How (Dashboard Rules)  
+2. Using Bookmark to Navigate page.
